@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonya & LookMhee - LMSY</title>
+    <link rel="stylesheet" href="style.css">  <!-- C:\Users\PC\Desktop\LMSY WBST\style.css -->
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>LMSY - LookMhee and Sonya</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="duo.html">Sonya & LookMhee</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="duo-profile">
+        <h2>Sonya & LookMhee</h2>
+        <img src="C:\Users\PC\Downloads\GT5RU91bAAAglSp.jpg" alt="Sonya and LookMhee"> <!-- https://i.pinimg.com/736x/a0/a6/68/a0a6686d3307a62a7b75b5312293acf1.jpg --><!-- 
+        <p>Sonya and LookMhee are an iconic duo, known for their incredible chemistry both on and off the screen. Together, they've starred in one film that has captivated audiences worldwide.</p>
+
+        <h3>Movies and Series</h3>
+        <div class="video-list">
+            <div class="video-item">
+                <h4>Movie A</h4>
+                <p>Release Date: 2024</p>
+                <a href="https://www.youtube.com/watch?v=example" target="_blank">
+                    <img src="" alt="Movie A Thumbnail"> 
+                    <p>https://youtu.be/jYg7FL4yqmo</p>
+                </a>
+            </div>
+            <div class="video-item">
+                <h4>Movie B</h4>
+                <p>Release Date: 2024</p>
+                <a href="https://youtu.be/jYg7FL4yqmo" target="_blank">
+                    <img src="C:\Users\PC\Downloads\3e346ff2e6a96874d655dc511eed7070.jpg"
+                 
+       &copy; 2024 LMSY. All rights reserved.
+    
